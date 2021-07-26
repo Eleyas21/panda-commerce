@@ -1,11 +1,13 @@
 
 .orange-bg{
-    background-color: #fceae8;
+    background-color: #f5ddcc ;
     box-shadow: 5px 15px 19px lightgray;
     border-radius: 1%;
     
 }
-
+.banword h1{
+    text-shadow: 2px 2px 8px rgb(235, 170, 213);
+}
 .carousel-item{
     padding: 20px 45px;
 }
@@ -15,6 +17,8 @@
 .coc{
     padding: 20px ;
 }
+
+
 .buy-now-button{
     color:black;
     font-size: bold;
@@ -27,15 +31,24 @@
 .cat1, .cat2, .cat3{
     padding: 10px 20px;
     border-radius: 15px;
+    box-shadow: 5px 5px 10px lightgray;
 }
+
+#shoes img{
+    background-image: linear-gradient(35deg, black , white ) ;
+}
+#backpack img{
+    background-image: linear-gradient(35deg, purple , white ) ; 
+}
+
 .cat1{
-    background-color: orangered;
+    background-image: linear-gradient(35deg, red, white);
 }
 .cat2{
-    background-color: red;
+    background-image: linear-gradient(35deg, orange, white);
 }
 .cat3{
-    background-color: yellowgreen;
+    background-image: linear-gradient(35deg, yellowgreen, white);
 }
 
 .categories h1{
@@ -55,10 +68,11 @@
     background-color: white;
     }
  .subscribe{
-     height: 300px;
-     background-color: #fceae8;
+     height: 350px;
+     
      box-shadow: 5px 15px 19px lightgray;
      border-radius: 10px;
+     background-image: url("https://www.imperial.ac.uk/news/image/mainnews2012/21217.jpg") ;
  }   
 .container{
     padding: 25px 40px;
