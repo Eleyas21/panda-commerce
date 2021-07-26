@@ -56,4 +56,14 @@
     }
  .subscribe{
      height: 300px;
+     background-color: #fceae8;
+     box-shadow: 5px 15px 19px lightgray;
+     border-radius: 10px;
  }   
+.container{
+    padding: 25px 40px;
+}
+footer{
+    padding: 25px ;
+    text-align: center;
+}
