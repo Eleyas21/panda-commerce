@@ -17,7 +17,9 @@
 .coc{
     padding: 20px ;
 }
-
+.navbar{
+position: sticky;  
+}
 
 .buy-now-button{
     color:black;
